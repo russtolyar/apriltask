@@ -1,0 +1,15 @@
+{
+  "brand": "Moya",
+  "people": [
+    {
+      "type": "buyer",
+      "name": "Ivan",
+      "money": 5
+    },
+    {
+      "type": "woker",
+      "name": "Anna",
+      "money": 2
+    }
+  ]
+}

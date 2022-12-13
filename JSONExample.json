@@ -1,0 +1,9 @@
+{
+  "clients":
+  [
+    {"name":"User1","amount":100},
+    {"name":"User2","amount":1000},
+    {"name":"User3","amount":16565}
+  ],
+  "bankName":"TestBank"
+}

@@ -1,0 +1,21 @@
+{
+  "company": "google",
+  "people": [
+    {
+      "name": "Ivan",
+      "dep": "new",
+      "money": 5
+    },
+    {
+      "name": "Vova",
+      "dep": "new",
+      "money": 8
+    },
+    {
+      "name": "Ira",
+      "dep": "old",
+      "money": 20
+    }
+  ],
+  "city": "Minsk"
+}

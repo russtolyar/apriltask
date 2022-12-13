@@ -1,0 +1,17 @@
+{
+  "bank": "taskOne file",
+
+  "people":
+  [
+    {"name": "Ivan",
+      "money": 22},
+    {"name": "Yana",
+      "money": 30},
+    {"name": "Yaroslav",
+      "money": 100},
+    {"name": "BorYan",
+      "money": 150},
+    {"name": "Rus",
+      "money": 1000}
+  ]
+}

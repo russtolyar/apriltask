@@ -1,0 +1,30 @@
+{
+  "bank": "myBank",
+  "personal": [
+    {
+      "name": "Ivan",
+      "dep": "finance"
+    },
+    {
+      "name": "vovan",
+      "dep": "security"
+    }
+  ],
+  "people": [
+    {
+      "name": "u1",
+      "take": 20,
+      "put": 100
+    },
+    {
+      "name": "u2",
+      "take": 0,
+      "put": 800
+    },
+    {
+      "name": "u3",
+      "take": 30,
+      "put": 10
+    }
+  ]
+}
